@@ -1,6 +1,6 @@
 {
 	"author": "Nicolas Alessandra <nico@bluedge.co.uk> (http://bluedge.co.uk)",
-	"name": "UGOforNODE",
+	"name": "ugofornode",
 	"description": "UNIX permission converter",
 	"version": "1.0.0",
 	"repository": {
