@@ -3,7 +3,7 @@
 
 	* Renamed methods
 	* Removed factory pattern
-	* isSymbolicValid() now accepts strings as parameter
+	* isSymbolicValid() now accepts strings as a parameter
 	
 
 0.2.0 / 2012-12-12
