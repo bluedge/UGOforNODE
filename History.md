@@ -1,3 +1,9 @@
+1.0.0 / 2013-01-22
+==================
+	* All Test passed on mocha
+	* Ready for production version updated
+	
+
 0.3.0 / 2013-01-09
 ==================
 

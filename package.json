@@ -2,7 +2,7 @@
 	"author": "Nicolas Alessandra <nico@bluedge.co.uk> (http://bluedge.co.uk)",
 	"name": "UGOforNODE",
 	"description": "UNIX permission converter",
-	"version": "0.3.0",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/bluedge/UGOforNODE"
