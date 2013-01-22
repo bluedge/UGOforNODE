@@ -2,7 +2,7 @@
 #UGOforNODE
 
 Lightweight module for UNIX Symbolic notation "rwxrwxr--" to Octal notation "774" convertion.
-[![Build Status](https://secure.travis-ci.org/bluedge/xxxx.png)](http://travis-ci.org/bluedge/xxx)
+[![Build Status](https://travis-ci.org/bluedge/UGOforNODE.png?branch=master)](https://travis-ci.org/bluedge)
 
 ## Install
 
