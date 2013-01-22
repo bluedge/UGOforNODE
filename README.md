@@ -1,4 +1,4 @@
-[![UGOforNODE](http://image.gif)](http://bluedge.github.com/UGOforNODE)
+[![UGOforNODE](https://github.com/bluedge/gh-pages/blob/master/images/UGOforNODE.png)](http://bluedge.github.com/UGOforNODE)
 #UGOforNODE
 
 Lightweight module for UNIX Symbolic notation "rwxrwxr--" to Octal notation "774" convertion.
