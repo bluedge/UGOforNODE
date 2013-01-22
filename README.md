@@ -1,4 +1,4 @@
-[![UGOforNODE](https://raw.github.com/bluedge/gh-pages/master/images/UGOforNODE.png)](http://bluedge.github.com/UGOforNODE)
+[![UGOforNODE](https://raw.github.com/bluedge/gh-pages/master/images/UGOforNODE.png)](https://github.com/bluedge/UGOforNODE)
 #UGOforNODE
 
 Lightweight module for UNIX Symbolic notation "rwxrwxr--" to Octal notation "774" convertion.
@@ -20,7 +20,7 @@ npm install ugofornode
 ### Usage Example
 
 ```js	
-	var UGOforNODE 			= require('../UGOforNODE.js')
+	var UGOforNODE 			= require('ugofornode')
 		, ugo 				= new UGOforNODE();
 	
 	// Get Octal notation from Array
